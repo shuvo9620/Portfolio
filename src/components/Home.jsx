@@ -9,7 +9,7 @@ const Home = () => {
                 <div className="flex flex-col justify-center h-full ">
                     <h2 className="text-4xl sm:text-7xl font-bold text-white">Im a Full Stack Developer</h2>
                     <p className="text-gray-500 py-4 max-w-md">
-                        I have 1 year of experience building and designing web applications.
+                        I have 1+ years of experience building and designing web applications.
                         Currently, I love to work on web applications using React Js, Next Js, Node, JavaScript, Bootstrap, Tailwind and mongoDB.
                     </p>
                     <div>
@@ -22,7 +22,7 @@ const Home = () => {
                     </div>
                 </div>
                 <div>
-                    <img src={profile} alt="profile picture" className="rounded-2xl mx-auto w-2/3 h-[350px] md:w-full" />
+                    <img src={profile} alt="profile picture" className="rounded-2xl mx-auto w-2/3 h-[300px] md:w-full" />
                 </div>
             </div>
         </div>

@@ -41,8 +41,8 @@ const Portfolio = () => {
     {
       id: 6,
       src: img6,
-      demo: 'https://chef-recipe-client-63c1f.web.app/',
-      code: 'https://github.com/shuvo9620/chef-recipe-client'
+      demo: '#',
+      code: '#'
     },
   ];
 

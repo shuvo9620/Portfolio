@@ -33,13 +33,13 @@ const SocialLinks = () => {
             child: (
                 <> Resume <BsFillPersonLinesFill size={30}></BsFillPersonLinesFill> </>
             ),
-            href: '/public/Resume-shuvo.pdf',
+            href: '/Mahfujur shuvo-web Developer-resume.pdf',
             style: 'rounded-br-md',
             download: true
         },
     ]
     return (
-        <div className=" hidden lg:flex flex-col top-[35%] left-0 fixed">
+        <div className="lg:flex flex-col top-[35%] left-0 fixed">
             <ul>
                 {
                     links.map(({ id, child, href, style, download }) => (
